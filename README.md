@@ -1,2 +1,2 @@
 # sms-spa
-React SPA created with create-react-app
+React SPA created with `create-react-app`
